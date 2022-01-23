@@ -4,13 +4,13 @@
 <div>
 <a href="https://heroku.com/deploy?template=https://github.com/bot-repo/deployer-one.git" target="blank"><img align="center" src="https://i.imgur.com/8n5MytU.jpeg" height="30" width="130" /></a>
 <div>
-<a href="https://heroku.com/deploy?template=https://github.com/bot-repo/deployer-two.git" target="blank"><img align="center" src="https://i.imgur.com/ofq7Mds.jpegvg.png" height="30" width="130" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Basil820/Raganork =https://github.com/bot-repo/deployer-two.git" target="blank"><img align="center" src="https://i.imgur.com/ofq7Mds.jpegvg.png" height="30" width="130" /></a>
 <div>
-<a href="https://heroku.com/deploy?template=https://github.com/bot-repo/deployer-three.git" target="blank"><img align="center" src="https://i.imgur.com/XIJTK7W.jpeg" height="30" width="130" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Basil820/Raganorkhttps://github.com/bot-repo/deployer-three.git" target="blank"><img align="center" src="https://i.imgur.com/XIJTK7W.jpeg" height="30" width="130" /></a>
 <div>
 
   <div>
-<a href="https://heroku.com/deploy?template=https://github.com/bot-repo/deployer-four.git" target="blank"><img align="center" src="https://i.imgur.com/TvKY6bS.jpeg" height="30" width="130" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Basil820/Raganork =https://github.com/bot-repo/deployer-four.git" target="blank"><img align="center" src="https://i.imgur.com/TvKY6bS.jpeg" height="30" width="130" /></a>
 
   <div>
 
